@@ -1,0 +1,17 @@
+;Standort;Management;Abundanz;Artenzahl;id
+1;Bad Vilbel;AFS;97;5;bv_afs_250
+2;Bad Vilbel;REF;49;3;bv_ref_250
+3;Klein-Winternheim;AFS;145;16;kw_afs_250
+4;Klein-Winternheim;REF;86;16;kw_ref_250
+5;Wiesbaden;AFS;108;19;wi_afs_250
+6;Wiesbaden;REF;151;15;wi_ref_250
+7;Wittlich;AFS;73;18;wt_afs_250
+8;Wittlich;REF;30;17;wt_ref_250
+9;Bad Vilbel;AFS;97;5;bv_afs_1000
+10;Bad Vilbel;REF;49;3;bv_ref_1000
+11;Klein-Winternheim;AFS;145;16;kw_afs_1000
+12;Klein-Winternheim;REF;86;16;kw_ref_1000
+13;Wiesbaden;AFS;108;19;wi_afs_1000
+14;Wiesbaden;REF;151;15;wi_ref_1000
+15;Wittlich;AFS;73;18;wt_afs_1000
+16;Wittlich;REF;30;17;wt_ref_1000

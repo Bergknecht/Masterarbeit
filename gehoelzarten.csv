@@ -1,0 +1,122 @@
+flaechen_ID;art;anzahl
+he-bv-afs;Aronia melanocarpa;1
+he-bv-afs;Euonymus europaeus;1
+he-bv-afs;Morus alba;1
+he-bv-afs;Populus spec.;1
+he-bv-afs;Populus tremula;1
+he-bv-afs;Pyrus communis;1
+he-bv-afs;Rosa spec.;1
+he-bv-afs;Ulmus pumila;1
+he-bv-afs;Acer campestre;2
+he-bv-afs;Cydonia oblonga;2
+he-bv-afs;Koelreuteria paniculata;2
+he-bv-afs;Salix viminalis;2
+he-bv-afs;Sambucus nigra;2
+he-bv-afs;Acer platanoides;3
+he-bv-afs;Corylus maxima Purpurea;3
+he-bv-afs;Malus domestica;3
+he-bv-afs;Castanea sativa;4
+he-bv-afs;Prunus avium;6
+he-bv-afs;Fraxinus excelsior;7
+he-bv-afs;Lonicera xylosteum;8
+he-bv-afs;Robinia pseudoacacia;8
+he-bv-afs;Acer pseudoplatanus;12
+he-bv-afs;Ulmus minor;13
+he-bv-afs;Cornus sanguinea;15
+he-bv-afs;Salix alba;18
+he-bv-afs;Elaeagnus multiflora;19
+he-bv-afs;Juglans regia;24
+he-wi-afs;Acer campestre;7
+he-wi-afs;Acer platanoides;1
+he-wi-afs;Actinidia arguta;4
+he-wi-afs;Ailanthus altissima;1
+he-wi-afs;Aronia melanocarpa;9
+he-wi-afs;Buddleija davidii;1
+he-wi-afs;Cornus sanguinea;3
+he-wi-afs;Corylus avellana;4
+he-wi-afs;Corylus maxima Purpurea;1
+he-wi-afs;Elaeagnus angustifolia;1
+he-wi-afs;Ficus carica;5
+he-wi-afs;Genista tinctoria;10
+he-wi-afs;Juglans regia;2
+he-wi-afs;Lonicera kamtschatica;9
+he-wi-afs;Lonicera xylosteum;1
+he-wi-afs;Lycium chinense;1
+he-wi-afs;Malus domestica;6
+he-wi-afs;Prunus avium cv.;3
+he-wi-afs;Prunus domestica;1
+he-wi-afs;Prunus domestica subsp. syriaca;1
+he-wi-afs;Pyrus communis;3
+he-wi-afs;Ribes nigrum;11
+he-wi-afs;Ribes rubrum;16
+he-wi-afs;Ribes uva-crispa cv.;20
+he-wi-afs;Rosa cv.;3
+he-wi-afs;Rosa spec.;6
+he-wi-afs;Rosmarinus officinalis;5
+he-wi-afs;Rubus fruticosus cv.;24
+he-wi-afs;Rubus idaeus cv.;35
+he-wi-afs;Rubus phoenicolasius;6
+he-wi-afs;Salix alba;2
+he-wi-afs;Salix aurita;1
+he-wi-afs;Sambucus nigra;3
+he-wi-afs;Sorbus aucuparia;2
+he-wi-afs;Sorbus torminalis;2
+he-wi-afs;Viburnum lantana;1
+he-wi-afs;Vitis vinifera cv.;7
+rlp-kw-afs;Vitis vinifera cv.;2
+rlp-kw-afs;Ribes uva-crispa cv.;3
+rlp-kw-afs;Cydonia oblonga;4
+rlp-kw-afs;Berberis thunbergii cv.;7
+rlp-kw-afs;Ribes spec.;8
+rlp-kw-afs;Ribes nigrum;11
+rlp-kw-afs;Malus domestica;15
+rlp-kw-afs;Juglans regia;18
+rlp-kw-afs;Corylus avellana;24
+rlp-wit-afs;Acer pseudoplatanus;1
+rlp-wit-afs;Actinidia chinensis cv.;1
+rlp-wit-afs;Akebia quinata;1
+rlp-wit-afs;Betula pendula;1
+rlp-wit-afs;Buddleija davidii;1
+rlp-wit-afs;Caragana arborescens;1
+rlp-wit-afs;Carpinus betulus;1
+rlp-wit-afs;Celtis occidentalis;1
+rlp-wit-afs;Cornus sanguinea;1
+rlp-wit-afs;Fraxinus excelsior;1
+rlp-wit-afs;Juglans regia;1
+rlp-wit-afs;Lycium chinense;1
+rlp-wit-afs;Malus domestica;1
+rlp-wit-afs;Morus cv.;1
+rlp-wit-afs;Prunus cerasifera;1
+rlp-wit-afs;Ribes rubrum cv.;1
+rlp-wit-afs;Rosa cv.;1
+rlp-wit-afs;Rosa rugosa;1
+rlp-wit-afs;Rosa spec.;1
+rlp-wit-afs;Salix viminalis;1
+rlp-wit-afs;Sambucus nigra;1
+rlp-wit-afs;Sorbus spec.;1
+rlp-wit-afs;Sorbus torminalis;1
+rlp-wit-afs;Syringa vulgaris;1
+rlp-wit-afs;Elaeagnus angustifolia;2
+rlp-wit-afs;Ficus carica;2
+rlp-wit-afs;Prunus mahaleb;2
+rlp-wit-afs;Rubus cv.;2
+rlp-wit-afs;Salix spec.;2
+rlp-wit-afs;Sorbus aucuparia;2
+rlp-wit-afs;Ziziphus jujuba;2
+rlp-wit-afs;Acer campestre;3
+rlp-wit-afs;Castanea sativa;3
+rlp-wit-afs;Prunus avium cv.;3
+rlp-wit-afs;Rubus fruticosus cv.;3
+rlp-wit-afs;Asimina triloba;4
+rlp-wit-afs;Corylus avellana;4
+rlp-wit-afs;Mahonia aquifolium;4
+rlp-wit-afs;Prunus persica;4
+rlp-wit-afs;Acer platanoides;5
+rlp-wit-afs;Amelanchier ovalis;5
+rlp-wit-afs;Lonicera kamtschatica;5
+rlp-wit-afs;Ribes rubrum;5
+rlp-wit-afs;Vitis vinifera cv.;5
+rlp-wit-afs;Prunus domestica;6
+rlp-wit-afs;Ribes uva-crispa;6
+rlp-wit-afs;Rubus idaeus cv.;8
+rlp-wit-afs;Ribes nigrum;28
