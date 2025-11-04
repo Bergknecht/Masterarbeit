@@ -9,7 +9,7 @@ library(vegan)
 library(car)
 library(FSA)
 # Daten aus CSV-Datei einlesen
-rohdaten_1 <- read.csv2("C:/Users/p-ber/OneDrive/1_TH Bingen/MA und FORSCH/1_auswertung/tab_nisthilfen_20250828.csv", header = T)
+rohdaten_1 <- read.csv2("C:/Users/p-ber/OneDrive/1_TH Bingen/MA und FORSCH/1_auswertung/tab_nisthilfen_20250903.csv", header = T)
 rohdaten_2 <- rohdaten_1 %>% filter(host.family!="Arachnidae", bemerkung!="angefangene BZ", n.gefressen.geschluepft==0)
 str(rohdaten_2) #Datentyp passt
 

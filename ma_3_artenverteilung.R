@@ -9,7 +9,7 @@ library(vegan)
 library(car)
 
 # Daten aus CSV-Datei einlesen
-rohdaten_1 <- read.csv2("C:/Users/p-ber/OneDrive/1_TH Bingen/MA und FORSCH/1_auswertung/tab_nisthilfen_20250828.csv", header = T)
+rohdaten_1 <- read.csv2("C:/Users/p-ber/OneDrive/1_TH Bingen/MA und FORSCH/1_auswertung/tab_nisthilfen_20250903.csv", header = T)
 # alle Nester mit 100% Mortalität entfernen
 rohdaten_4 <- rohdaten_1 %>% filter(host.family!="Arachnidae", bemerkung!="angefangene BZ", n.gefressen.geschluepft==0, n.host.individuals!=0)
 
@@ -193,7 +193,7 @@ points(nmds2, display = "sites", pch = shape_kat, bg = color_kat, cex=2.5)  # St
 points(jittered_coords, pch = 20, cex = 1.5)  # Arten als Punkte
 plot(envfit_umgebung_subset, col = "red") #umgebungsparameter
 plot(envfit_flaechenanteile_subset, col = "red") #flaechenparameter
-legend(1.9,1.75, legend = c("AFS Wiesbaden", "REF Wiesbaden", "AFS Wittlich", "REF Wittlich","AFS Klein-Winternheim", "REF Klein-Winternheim", "AFS Bad Vilbel", "REF Bad Vilbel"), pch = shape_kat, 
+legend(1.5,1.5, legend = c("AFS Wiesbaden", "REF Wiesbaden", "AFS Wittlich", "REF Wittlich","AFS Klein-Winternheim", "REF Klein-Winternheim", "AFS Bad Vilbel", "REF Bad Vilbel"), pch = shape_kat, 
        pt.bg = c("steelblue2","steelblue2","chartreuse2","chartreuse2","orangered3","orangered3","yellow","yellow"), cex = 0.8)
 
 
@@ -273,7 +273,7 @@ label_kat <- c("wi(AFS)"="AFS Wiesbaden", "wi(REF)"="REF Wiesbaden", "wit(AFS)"=
 
 #Plot mit absoluten Abundanzen
 ggplot(arten_relativ, aes(x = host.species.2, y = Abundanz, fill = standort_flaeche)) +
-  geom_col() + labs(title = "Nest abundance of all species across all field types",x = "species",y = "nest abundance (n)",fill = "field type") +
+  geom_col() + labs(title = "Nestabundanz aller Arten über alle Flächen ",x = "Arten und Artengruppen",y = "Nestabundanz (n)",fill = "Flächentyp") +
   scale_fill_manual(values = color_kat, labels =label_kat) + scale_y_continuous(breaks = seq(0, 300, by = 50)) + 
   theme_minimal() + theme(axis.text.y = element_text(size = 8, face = "italic")) + coord_flip() 
 
