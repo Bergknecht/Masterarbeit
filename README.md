@@ -1,6 +1,2 @@
 # Masterarbeit
 
-\# jtest 
-
-
-
